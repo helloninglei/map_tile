@@ -2,7 +2,7 @@
 name = "map_tile"
 version = "0.1.0"
 edition = "2021"
-authors = ["ninleizhang"]
+authors = ["ningleizhang", "454995446@qq.com"]
 description = "tool for map tile"
 license = "MIT"
 
